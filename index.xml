@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GeoPlugin>
+    <geopluginRequest>46.251.198.241</geopluginRequest>
+    <geopluginStatus>200</geopluginStatus>
+    <geopluginDelay>2ms</geopluginDelay>
+    <geopluginCredits>
+        <a>http://www.maxmind.com</a>
+    </geopluginCredits>
+    <geopluginCity>Kant</geopluginCity>
+    <geopluginRegion>Chuyskaya Oblast</geopluginRegion>
+    <geopluginRegionCode>C</geopluginRegionCode>
+    <geopluginRegionName>Chuyskaya Oblast'</geopluginRegionName>
+    <geopluginAreaCode>77</geopluginAreaCode>
+    <geopluginDmaCode>8</geopluginDmaCode>
+    <geopluginCountryCode>KG</geopluginCountryCode>
+    <geopluginCountryName>Kyrgyzstan</geopluginCountryName>
+    <geopluginInEU>0</geopluginInEU>
+    <geopluginEuVATrate>AS</geopluginEuVATrate>
+    <geopluginContinentCode>Asia</geopluginContinentCode>
+    <geopluginContinentName>Asia</geopluginContinentName>
+    <geopluginLatitude>2.2</geopluginLatitude>
+    <geopluginLongitude>22.0</geopluginLongitude>
+    <geopluginLocationAccuracyRadius>1</geopluginLocationAccuracyRadius>
+    <geopluginTimezone>Asia/Bishkek</geopluginTimezone>
+    <geopluginCurrencyCode>KGS</geopluginCurrencyCode>
+    <geopluginCurrencySymbol>&amp;#1083;&amp;#1074;</geopluginCurrencySymbol>
+    <geopluginCurrencySymbol_UTF8>LV</geopluginCurrencySymbol_UTF8>
+    <geopluginCurrencyConverter>1.0</geopluginCurrencyConverter>
+</GeoPlugin>
